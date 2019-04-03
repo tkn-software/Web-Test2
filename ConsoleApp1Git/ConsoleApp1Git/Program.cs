@@ -10,6 +10,8 @@ namespace ConsoleApp1Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Testing added data in console program");
+            Console.WriteLine("Good");
         }
     }
 }
